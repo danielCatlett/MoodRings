@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Mood Rings</string>
+    <string name="my_day_string">My Day</string>
+    <string name="my_partner_string">My Partner</string>
+    <string name="stats_string">Stats</string>
+    <string name="mood_string">Mood</string>
+    <string name="challenges_string">Challenges</string>
+    <string name="wish_list_string">Wish List</string>
+    <string name="peaceful_string">Peaceful</string>
+    <string name="content_string">Content</string>
+    <string name="stressed_string">Stressed</string>
+    <string name="sad_string">Sad</string>
+    <string name="bad_string">Bad</string>
+    <string name="low_energy_string">Low Energy</string>
+    <string name="work_string">Work</string>
+    <string name="kids_string">Kids</string>
+    <string name="loss_string">Loss</string>
+    <string name="giving_up_string">Giving Up</string>
+    <string name="talk_string">Talk</string>
+    <string name="time_string">Time</string>
+    <string name="touch_string">Touch</string>
+    <string name="tasks_string">Tasks</string>
+    <string name="tokens_string">Tokens</string>
+    <string name="submit_string">Submit</string>
+</resources>
